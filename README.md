@@ -41,11 +41,9 @@
 
 #### 링크
 
-<https://github.com>
+https://github.com
 
 [깃허브](https://github.com)
-
-[깃허브](https://github.com, "깃 원격저장소")
 
 
 ![이미지연습](./images/cat.jpg)
